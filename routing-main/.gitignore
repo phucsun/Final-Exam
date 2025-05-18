@@ -1,0 +1,15 @@
+pcap/
+log/
+*.p4i
+*.db
+*.pyc
+*.log
+*.pcap
+*.trace
+*.swp
+*.swm
+*.swn
+*.swo
+
+.idea
+.vscode/
